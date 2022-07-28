@@ -1,0 +1,2 @@
+# Spotify-Data-Analysis-Project-using-Python
+This in-depth analytical study aims to provide useful insights on various factors which influence a song in becoming a hit and their interdependencies and also puts forward important strategies and methodologies that could help artists orient their creative inputs in line with the insights derived, so that their songs are more likely to become successful.
